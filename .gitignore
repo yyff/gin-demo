@@ -1,0 +1,6 @@
+.idea/
+
+# For the BATS testing
+bats/
+target/
+.vscode/
